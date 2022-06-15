@@ -4,7 +4,7 @@ This repository contains one of my projects as a data science student taken from
 
 The data was scraped from the web (process for one of the artists is shown in the notebook).
 
-The repository includes the following files:
+<ins>The repository includes the following files:</ins>
 * task_web_scraping - notebook that includes example of lyrics scraping for one artist
 * task_b_fifty.ipynb - data processing and model development and training (including feature engineering)
 * vector_1.pickle - a pickled transformation vector (icludes all transformations)
